@@ -1,0 +1,304 @@
+{
+    "Productos":{
+        "Producto1":{
+            "ID": 1,
+            "Tipo": "Campera marron",
+            "Genero": "Hombre",
+	    "Marca": "Adidas",
+            "Img": "photos/Male1.jpg",
+	    "Valor": "$ 100",
+	    "Antes": "$ 150",
+	    "Descr": "Campera masculina de abrigo. Ideal para dias frios"
+        },
+        "Producto2":{
+            "ID": 2,
+            "Tipo": "Pantalon",
+            "Genero": "Mujer",
+	    "Marca": "Puma",
+            "Img": "photos/female12.jpg",
+	    "Valor": "$ 150",
+	    "Antes": "$ 225",
+	    "Descr": "Pantalon de mujer. Elegante y original"
+        },
+        "Producto3":{
+            "ID": 3,
+            "Tipo": "Mono elegante",
+            "Genero": "Mujer",
+	    "Marca": "Nike",
+            "Img": "photos/female2.jpg",
+	    "Valor": "$ 125",
+	    "Antes": "$ 350",
+	    "Descr": "Este mono es una verdadera monada. Gran Oferta"
+        },
+        "Producto4":{
+            "ID": 4,
+            "Tipo": "Mono elegante",
+            "Genero": "Hombre",
+	    "Marca": "Nike",
+            "Img": "photos/Male40.jpg",
+	    "Valor": "$ 400",
+	    "Antes": "$ 500",
+	    "Descr": "Buso camuflado excelente oferta"
+        },
+        "Producto5":{
+            "ID": 5,
+            "Tipo": "Gorro gabardina",
+            "Genero": "Hombre",
+	    "Marca": "Ouma",
+            "Img": "photos/Male32.jpg",
+	    "Valor": "$ 110",
+	    "Antes": "$ 220",
+	    "Descr": "Gorro azul de gabardina, oportunidad"
+        },
+        "Producto6":{
+            "ID": 6,
+            "Tipo": "Chomba blanca",
+            "Genero": "Hombre",
+	    "Marca": "Nike",
+            "Img": "photos/Male28.jpg",
+	    "Valor": "$ 300",
+	    "Antes": "$ 450",
+	    "Descr": "Chomba blanca, excelente calidad"
+        },
+        "Producto7":{
+            "ID": 7,
+            "Tipo": "camisa celeste",
+            "Genero": "Hombre",
+	    "Marca": "Puma",
+            "Img": "photos/Male21.jpg",
+	    "Valor": "$ 450",
+	    "Antes": "$ 600",
+	    "Descr": "Elegante camisa color celeste de vestir"
+        },
+        "Producto8":{
+            "ID": 8,
+            "Tipo": "Remera con bolsillo",
+            "Genero": "Hombre",
+	    "Marca": "Nike",
+            "Img": "photos/Male10.jpg",
+	    "Valor": "$ 300",
+	    "Antes": "$ 500",
+	    "Descr": "Muy buena remera bordo con bolsillo"
+        },
+        "Producto9":{
+            "ID": 9,
+            "Tipo": "Remera blanca",
+            "Genero": "Hombre",
+	    "Marca": "Nike",
+            "Img": "photos/Male7.jpg",
+	    "Valor": "$ 300",
+	    "Antes": "$ 500",
+	    "Descr": "muy buena remera blanca"
+        },
+        "Producto10":{
+            "ID": 10,
+            "Tipo": "Camisa a cuadros",
+            "Genero": "Hombre",
+	    "Marca": "Puma",
+            "Img": "photos/Male3.jpg",
+	    "Valor": "$ 500",
+	    "Antes": "$ 700",
+	    "Descr": "Camisa a cuadros roja y negra"
+        },
+        "Producto11":{
+            "ID": 11,
+            "Tipo": "Campera de pluma",
+            "Genero": "Chicos",
+	    "Marca": "Nike",
+            "Img": "photos/nina21.jpg",
+	    "Valor": "$ 800",
+	    "Antes": "$ 1000",
+	    "Descr": "Campera de pluma moderna excelente oferta"
+        },
+        "Producto12":{
+            "ID": 12,
+            "Tipo": "remera estampada",
+            "Genero": "Chicos",
+	    "Marca": "Puma",
+            "Img": "photos/nina20.jpg",
+	    "Valor": "$ 300",
+	    "Antes": "$ 450",
+	    "Descr": "Remera rosa con imagen de mariposa"
+        },
+        "Producto13":{
+            "ID": 13,
+            "Tipo": "Sweter cosido",
+            "Genero": "Chicos",
+	    "Marca": "Nike",
+            "Img": "photos/nina14.jpg",
+	    "Valor": "$ 900",
+	    "Antes": "$ 1100",
+	    "Descr": "Sweter cosido, gran oferta"
+        },
+        "Producto14":{
+            "ID": 14,
+            "Tipo": "Muscuolosa con figuras",
+            "Genero": "Chicos",
+	    "Marca": "Nike",
+            "Img": "photos/nina6.jpg",
+	    "Valor": "$ 200",
+	    "Antes": "$ 350",
+	    "Descr": "Musculosa con figuras, excelente oferta"
+        },
+        "Producto15":{
+            "ID": 15,
+            "Tipo": "Campera negra",
+            "Genero": "Chicos",
+	    "Marca": "Puma",
+            "Img": "photos/nina26.jpg",
+	    "Valor": "$ 900",
+	    "Antes": "$ 1200",
+	    "Descr": "Campera negra, super abrigada"
+        },
+        "Producto16":{
+            "ID": 16,
+            "Tipo": "Short de bano",
+            "Genero": "Chicos",
+	    "Marca": "Nike",
+            "Img": "photos/nino1.jpg",
+	    "Valor": "$ 200",
+	    "Antes": "$ 350",
+	    "Descr": "Short de bano, gran calidad"
+        },
+        "Producto17":{
+            "ID": 17,
+            "Tipo": "Sweter gris",
+            "Genero": "Chicos",
+	    "Marca": "Adidas",
+            "Img": "photos/nino7.jpg",
+	    "Valor": "$ 800",
+	    "Antes": "$ 950",
+	    "Descr": "Sweter gris con botones, gran oferta"
+        },
+        "Producto18":{
+            "ID": 18,
+            "Tipo": "Camisa a cuadros",
+            "Genero": "Chicos",
+	    "Marca": "Nike",
+            "Img": "photos/nino10.jpg",
+	    "Valor": "$ 400",
+	    "Antes": "$ 600",
+	    "Descr": "Excelente camisa a cuadros"
+        },
+        "Producto19":{
+            "ID": 19,
+            "Tipo": "buso campera",
+            "Genero": "Chicos",
+	    "Marca": "Puma",
+            "Img": "photos/nino15.jpg",
+	    "Valor": "$ 700",
+	    "Antes": "$ 900",
+	    "Descr": "Buso camperita gris con negro"
+        },
+        "Producto20":{
+            "ID": 20,
+            "Tipo": "remera rosa",
+            "Genero": "Mujer",
+	    "Marca": "Nike",
+            "Img": "photos/female15.jpg",
+	    "Valor": "$ 200",
+	    "Antes": "$ 350",
+	    "Descr": "Remera rosa de vestir. Gran Oferta"
+        },
+        "Producto21":{
+            "ID": 21,
+            "Tipo": "Pantalon rosa",
+            "Genero": "Mujer",
+	    "Marca": "Nike",
+            "Img": "photos/female17.jpg",
+	    "Valor": "$ 800",
+	    "Antes": "$ 950",
+	    "Descr": "Pantalon rosa elegante, gran oferta "
+        },
+        "Producto22":{
+            "ID": 22,
+            "Tipo": "Bermuda azul",
+            "Genero": "Mujer",
+	    "Marca": "Adidas",
+            "Img": "photos/female8.jpg",
+	    "Valor": "$ 400",
+	    "Antes": "$ 600",
+	    "Descr": "Bermuda azul, ideal para el atardecer"
+        },
+        "Producto23":{
+            "ID": 23,
+            "Tipo": "Jeans con roturas",
+            "Genero": "Mujer",
+	    "Marca": "Nike",
+            "Img": "photos/female4.jpg",
+	    "Valor": "$ 750",
+	    "Antes": "$ 900",
+	    "Descr": "Jeans con rotura, tiempo libre"
+        },
+        "Producto24":{
+            "ID": 24,
+            "Tipo": "Zapatillas blancas",
+            "Genero": "Mujer",
+	    "Marca": "Adidas",
+            "Img": "photos/female20.jpg",
+	    "Valor": "$ 2200",
+	    "Antes": "$ 2600",
+	    "Descr": "zapatillas blancas con plataforma. Gran Oferta"
+        },
+        "Producto25":{
+            "ID": 25,
+            "Tipo": "Zapatos con taco",
+            "Genero": "Mujer",
+	    "Marca": "Puma",
+            "Img": "photos/female23.jpg",
+	    "Valor": "$ 3000",
+	    "Antes": "$ 3500",
+	    "Descr": "Zapatos azules con tacos altos"
+        },
+        "Producto26":{
+            "ID": 26,
+            "Tipo": "Aros dorados",
+            "Genero": "Mujer",
+	    "Marca": "Puma",
+            "Img": "photos/female31.jpg",
+	    "Valor": "$ 400",
+	    "Antes": "$ 500",
+	    "Descr": "aros dorados para fiestas"
+        },
+        "Producto27":{
+            "ID": 27,
+            "Tipo": "Anillos de oro",
+            "Genero": "Mujer",
+	    "Marca": "Nike",
+            "Img": "photos/female33.jpg",
+	    "Valor": "$ 3500",
+	    "Antes": "$ 4000",
+	    "Descr": "Anillos de oro, ideal para compromiso"
+        },
+        "Producto28":{
+            "ID": 28,
+            "Tipo": "Billetera de cuero",
+            "Genero": "Mujer",
+	    "Marca": "Puma",
+            "Img": "photos/female34.jpg",
+	    "Valor": "$ 450",
+	    "Antes": "$ 550",
+	    "Descr": "Billetera de cuero marron, gran oferta"
+        },
+        "Producto29":{
+            "ID": 29,
+            "Tipo": "Zapatillas marrones",
+            "Genero": "Mujer",
+	    "Marca": "Puma",
+            "Img": "photos/female24.jpg",
+	    "Valor": "$ 2200",
+	    "Antes": "$ 2800",
+	    "Descr": "Zapatillas de cuero marron, excelente oferta"
+        },
+        "Producto30":{
+            "ID": 30,
+            "Tipo": "remera estampada",
+            "Genero": "Mujer",
+	    "Marca": "Adidas",
+            "Img": "photos/female18.jpg",
+	    "Valor": "$ 250",
+	    "Antes": "$ 350",
+	    "Descr": "Remera estampada blanca y negra"
+        }
+    }
+}
